@@ -1,2 +1,2 @@
-# portfolio
-This will contain all the portfolio refrerences
+# Portfolio
+This will contain all the portfolio projects
